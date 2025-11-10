@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Saif-Abdelazez
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="1240" height="439" alt="image" src="https://github.com/user-attachments/assets/482aacf5-2981-4db6-b700-00b299ffc040" />🌱 I’m currently learning FLUTTER Development
 
-<!---
-Saif-Abdelazez/Saif-Abdelazez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 Ask me about anything
+
+📫 How to reach me seif301x@gmail.com
+
+⚡ Fun fact always learning
